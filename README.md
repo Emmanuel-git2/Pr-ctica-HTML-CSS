@@ -1,2 +1,2 @@
-# Pr-ctica-HTML-CSS
+# Practica-HTML-CSS
 5 Ejercicios de práctica con HTML y CSS
